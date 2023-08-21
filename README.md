@@ -1,6 +1,6 @@
 # Clean Code Refactoring - Java Exercise
 
-![Java Logo](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
+![Java Logo](https://www.oracle.com/a/ocom/docs/java-logo-001.png)
 
 Este repositório contém o código-fonte de um exercício antigo em Java que passará por um processo de refatoração utilizando os princípios e práticas de Clean Code. O objetivo desta iniciativa é melhorar a legibilidade, manutenibilidade e eficiência do código, tornando-o mais compreensível tanto para desenvolvedores experientes quanto para iniciantes.
 
